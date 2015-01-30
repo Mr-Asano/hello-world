@@ -1,2 +1,2 @@
 # hello-world
-Just another hello.
+Just another hello, and just like that goodbye.
